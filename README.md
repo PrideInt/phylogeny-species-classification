@@ -1,6 +1,22 @@
-# Learning and Predicting Phylogeny: Determining the Genus of a Species with Feature Selection and Decision Tree Modeling
+# Learning and Predicting Phylogeny: Harnessing Reverse Image Generating AI to Power Machine Learning Techniques to Predict the Genus of a Angiosperms
 Observing evolutionary biology and phylogenetic classification of a species by way of selecting features that are prevalent and observing
 similarities among species that collectively share these derived traits, which are in the form of **features**.
+
+## Transformers
+
+*TBA.*
+
+## Taxonomic Data Training
+
+*TBA.*
+
+## Backwards Generative Process
+
+*TBA.*
+
+## Translation
+
+*TBA.*
 
 ## Feature Selection
 
